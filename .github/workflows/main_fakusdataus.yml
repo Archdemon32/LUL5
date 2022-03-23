@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'fakusdataus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7EEC97E587B6407585E136086C853941 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B6F20E7B67D426B9984041B063545A0 }}
